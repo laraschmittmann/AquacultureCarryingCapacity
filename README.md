@@ -19,6 +19,6 @@ Authors: Authors: Lara Schmittmann(1), Kathrin Busch(2), Leon-Cornelius Mock(1),
 **Files in this repository** 
 - jupyter notebook ```2024-01-21_basic-experiment_revision.ipynb``` describing Lagrangian simulations (using OceanParcels https://oceanparcels.org/)
 - bash script ```run_basic_experiment_revision.sh``` to execute simulations on a HPC
-- jupyter notebook ```2024-01-16_spread-areas.ipynb``` to calculate spreading areas based on Lagrangian simulations and to produce figures
+- jupyter notebook ```2024-03-28_spread-areas-revision2.ipynb``` to calculate spreading areas based on Lagrangian simulations and to produce figures
 - textfile ```stations.csv``` containing the coordinates for the example aquaculture sites
   
