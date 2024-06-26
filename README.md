@@ -23,3 +23,4 @@ Authors: Authors: Lara Schmittmann(1), Kathrin Busch(2), Leon-Cornelius Mock(1),
 - jupyter notebook ```2024-03-28_spread-areas-revision2.ipynb``` to calculate spreading areas based on Lagrangian simulations and to produce figures
 - textfile ```stations.csv``` containing the coordinates for the example aquaculture sites
   
+https://zenodo.org/doi/10.5281/zenodo.12548935
