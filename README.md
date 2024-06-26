@@ -6,7 +6,7 @@ This repository contains the code to reproduce simulations, analysis, and figure
 
 **Associated manuscript**
 
-Spatial connectivity and marine disease dispersal: missing links in aquaculture carrying capacity debates
+Beyond the bay: Biophysical simulations of disease dispersal suggest broadening spatial scales for aquaculture carrying capacity
 
 Authors: Authors: Lara Schmittmann(1), Kathrin Busch(2), Leon-Cornelius Mock(1), Willi Rath(1), Lotta Clara Kluger(3,4)
 
